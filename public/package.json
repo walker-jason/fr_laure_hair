@@ -1,0 +1,23 @@
+{
+  "name": "france-laure-coiffure",
+  "version": "1.0.0",
+  "description": "Site vitrine officiel & système de réservation pour le salon de coiffure France Laure à Molenbeek-Saint-Jean, Bruxelles",
+  "main": "index.html",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "france-laure",
+    "coiffure",
+    "salon-de-coiffure",
+    "bruxelles",
+    "molenbeek",
+    "balayage",
+    "kerastase",
+    "visagisme"
+  ],
+  "author": "France Laure Coiffure",
+  "license": "MIT"
+}
